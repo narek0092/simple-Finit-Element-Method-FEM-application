@@ -1,0 +1,5 @@
+﻿% este fichero indica las conectividades entre elementos
+%ne     ni      nf
+1       1       2
+2       2       3
+3       3       4
